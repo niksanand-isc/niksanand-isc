@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Nikhil Anand 👋
 
-<!--
-**niksanand-isc/niksanand-isc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineering Intern at iSchoolConnect
 
-Here are some ideas to get you started:
+I'm a passionate JavaScript developer with experience contributing to multiple codebases within my organization. Currently focusing on expanding my JS application development skills while delivering value through my internship work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💼 Software Engineering Intern at **iSchoolConnect**
+- 💻 JavaScript enthusiast with hands-on experience in modern frameworks
+- 🌱 Currently learning advanced JS application architecture and best practices
+- 🔭 Working on various organizational codebases and personal projects
+- 🤝 Open to collaborate on interesting JavaScript projects
+
+### 🛠️ Tech Stack
+
+```javascript
+const myTechStack = {
+  languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  frameworks: ['React', 'Node.js', 'Express'],
+  tools: ['Git', 'GitHub', 'VS Code', 'Docker'],
+  practices: ['Clean Code', 'Agile Methodology', 'CI/CD']
+};
+```
+
+### 💼 Experience
+
+#### iSchoolConnect
+- Contributed to multiple codebases within the organization
+- Maintained JavaScript applications
+- Collaborated with cross-functional teams to deliver solutions
+- Implemented best practices and coding standards
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niksanand-isc&show_icons=true&theme=radical)
+
+### 📫 Connect With Me
+
+- LinkedIn: [Nikhil Anand](https://www.linkedin.com/in/nikhil-anand-0792981b2/)
+- Email: nikhilanandgaya01@gmail.com
+- Portfolio: [Portfolio Website](http://portfolio-git-portfolioreact-nikhil-anands-projects.vercel.app/)
+
+
+---
+
+⭐️ From [niksanand-isc](https://github.com/niksanand-isc)
