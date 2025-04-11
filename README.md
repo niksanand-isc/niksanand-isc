@@ -16,10 +16,10 @@ I'm a passionate JavaScript developer with experience contributing to multiple c
 
 ```javascript
 const myTechStack = {
-  languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
-  frameworks: ['React', 'Node.js', 'Express'],
-  tools: ['Git', 'GitHub', 'VS Code', 'Docker'],
-  practices: ['Clean Code', 'Agile Methodology', 'CI/CD']
+  languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Python'],
+  frameworks: ['React', 'Node.js', 'Express', 'NestJS', 'NextJS'],
+  tools: ['Git', 'GitHub', 'VS Code', 'Docker', 'MongoDB'],
+  practices: ['Clean Code', 'Agile Methodology', 'SOLID Principle']
 };
 ```
 
