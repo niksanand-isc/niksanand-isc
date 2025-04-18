@@ -33,7 +33,7 @@ const myTechStack = {
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niksanand-1717&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niksanand-isc&show_icons=true&theme=radical)
 
 ### 📫 Connect With Me
 
@@ -44,4 +44,4 @@ const myTechStack = {
 
 ---
 
-⭐️ From [niksanand-isc](https://github.com/niksanand-isc)
+⭐️ From [niksanand1717](https://github.com/niksanand1717)
