@@ -1,6 +1,6 @@
 # Hi there, I'm Nikhil Anand 👋
 
-## Software Engineering Intern at iSchoolConnect
+## Junior Software Engineering at iSchoolConnect
 
 I'm a passionate JavaScript developer with experience contributing to multiple codebases within my organization. Currently focusing on expanding my JS application development skills while delivering value through my internship work.
 
@@ -19,7 +19,8 @@ const myTechStack = {
   languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Python'],
   frameworks: ['React', 'Node.js', 'Express', 'NestJS', 'NextJS'],
   tools: ['Git', 'GitHub', 'VS Code', 'Docker', 'MongoDB'],
-  practices: ['Clean Code', 'Agile Methodology', 'SOLID Principle']
+  practices: ['Clean Code', 'Agile Methodology', 'SOLID Principle'],
+  learning: ['Kafka', 'node scaling', 'Prisma ODM']
 };
 ```
 
